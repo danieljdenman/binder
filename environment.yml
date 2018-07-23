@@ -2,5 +2,4 @@ dependencies:
   - matplotlib
   - numpy
   - pandas
-  - _pickle
   - seaborn=0.9.0
