@@ -3,3 +3,4 @@ dependencies:
   - numpy
   - pandas
   - seaborn=0.9.0
+  - dropbox
